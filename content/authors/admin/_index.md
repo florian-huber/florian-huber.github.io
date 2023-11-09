@@ -35,6 +35,7 @@ interests:
   - Research Software Development
   - Open Science
 
+<!---
 # Education to show in About widget
 education:
   courses:
@@ -44,7 +45,7 @@ education:
 
 # Skills
 # For available icons, see: https://hugoblox.com/docs/getting-started/page-builder/#icons
-
+-->
 
 # Social/Academic Networking
 # For available icons, see: https://hugoblox.com/docs/getting-started/page-builder/#icons
