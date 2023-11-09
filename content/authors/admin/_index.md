@@ -35,7 +35,6 @@ interests:
   - Research Software Development
   - Open Science
 
-<!---
 # Education to show in About widget
 education:
   courses:
@@ -45,7 +44,6 @@ education:
 
 # Skills
 # For available icons, see: https://hugoblox.com/docs/getting-started/page-builder/#icons
--->
 
 # Social/Academic Networking
 # For available icons, see: https://hugoblox.com/docs/getting-started/page-builder/#icons
@@ -71,7 +69,7 @@ highlight_name: true
 
 Florian Huber has been a professor of Data Science and Visual Analytics at the Center for Digitalization and Digitality (ZDD) and the Department of Media at HSD since September 1st, 2021. He conducts research and teaches in the field of Data Science, with a particular focus on the use of machine learning and visualization to analyze complex data sets.
 
-## Background:
+## Background
 
 Florian Huber received his diploma in Physics from the University of Leipzig and obtained his PhD in Biological Physics there in 2012, with a thesis titled "Emergent structure formation of the actin cytoskeleton." From 2012 to 2015, he worked as a postdoctoral researcher at AMOLF (Amsterdam) and TU Delft, where he conducted biochemical experiments and computer modeling to study the self-organization of various protein structures.
 In 2015, Florian Huber founded the company KÄNDI in Amsterdam to develop high-quality, sustainable sweets before starting as a Data Scientist at the Netherlands eScience Center in 2018. He worked there until 2021 on numerous projects with scientists from various fields and companies, developing new methods for evaluating complex data with a strong focus on the use of machine learning. This involved working with a wide range of different data types, including mass spectra, EEG measurements, time series, sensor data, and text.
