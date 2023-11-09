@@ -8,9 +8,15 @@ tags:
 date: "2023-11-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/matchms/ms2deepscore
+external_link:
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Sketch of MS2DeepScore
   focal_point: Smart
+
+links:
+  - icon: github
+    icon_pack: fab
+    name: GitHub repository
+    url: https://github.com/matchms/ms2deepscore
 ---

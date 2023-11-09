@@ -9,17 +9,17 @@ tags:
 date: '2023-11-09T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://github.com/matchms/matchms'
+external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Sketch of matchms
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: GitHub repository
+    url: https://github.com/matchms/matchms
 url_code: ''
 url_pdf: ''
 url_slides: ''
