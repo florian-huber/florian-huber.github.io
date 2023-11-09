@@ -93,7 +93,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Open positions & projects
       filters:
         folders:
           - event
