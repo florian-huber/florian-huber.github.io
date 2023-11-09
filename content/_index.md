@@ -59,10 +59,16 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: Research Software
+          tag: Research Software
+        - name: Data Science Tools
+          tag: Data Science Tools
+        - name: Cheminformatics
+          tag: Cheminformatics
+        - name: Machine Learning
+          tag: Machine Learning
         - name: Deep Learning
           tag: Deep Learning
-        - name: Other
-          tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

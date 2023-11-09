@@ -1,6 +1,6 @@
 ---
 title: MS2DeepScore
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Deep learning similarity measure for comparing MS/MS spectra with respect to their chemical similarity.
 tags:
   - Python
   - Deep Learning
