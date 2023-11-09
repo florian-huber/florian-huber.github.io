@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Florian Huber
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Florian
+last_name: Huber
 
 # Status emoji
 status:
@@ -17,34 +17,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Data Science and Visual Analytics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Applied Sciences Düsseldorf
+    url: https://medien.hs-duesseldorf.de/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Research and teaching on data science and research software development.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Science
+  - Machine Learning (incl. Deep Learning)
+  - Graph-based data analysis and data visualization
+  - Research Software Development
+  - Open Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Introduction to Data Science
+      institution: University of Applied Sciences Düsseldorf
+      year: 2021, 2022, 2023
 
 # Skills
 # For available icons, see: https://hugoblox.com/docs/getting-started/page-builder/#icons
@@ -120,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Description here...
 {style="text-align: justify;"}
