@@ -1,13 +1,13 @@
 ---
 title: Research Software Engineer
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: ""
+event_url: ""
 
-location: University of Applied Sciences Düsseldorf
+location:
 address:
 
-summary: Research Software Engineer (RSE) position to expand matchms
+summary: Research Software Engineer (RSE) position to expand matchms Python ecosystem.
 abstract: 'coming soon'
 
 # Talk start and end times.
@@ -26,8 +26,8 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: 'Molecular network generated using matchms.'
+  focal_point: Center
 
 links:
   - icon: cv
@@ -54,14 +54,8 @@ slides: ""
 projects: ""
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+I have an open position for the next 3-year development phase of our open-source Python libraries for analyzing mass spectrometry data!
 
-Slides can be added in a few ways:
+If you are into Python software development and looking to apply your skills to empower researchers in biological and biomedical fields by creating novel, better, more user-friendly tools, this might be for you.
 
-- **Create** slides using Wowchemy's [_Slides_](https://hugoblox.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://hugoblox.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://hugoblox.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+**OR**, if you come from a biological and biomedical background (ideally related to mass spectral or other omics data), bring solid programming skills, and want to expand more into research software development, this might be for you, too. 

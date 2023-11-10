@@ -91,7 +91,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: positions
     content:
       title: Open positions & projects
       filters:
